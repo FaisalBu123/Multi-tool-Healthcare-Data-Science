@@ -481,8 +481,8 @@ ORDER BY avg_length_of_stay ASC;
 
 # This is enough for the SQL analysis, the rest will be done in stage 2 - ML using Python (Jupyter Notebook)
 # I will exporrt his cleaned data and use it for stage 2.
-# Note that the hospital column is not fixed yet, but since it requires a lot of cleaning that deals with many assumptions (such as that the name ends when the ', and' appears in the hospital name), I will wait until I do correlation analysis in Python to see if it is even worth taking these assumptions
-# Meaning that when I predict the Test Results which is the goal, maybe the hospital has a small correlation with it an dis therefore not that useful as a predictive feature and so we needn't waste time on it
+# Note that the hospital column is not fixed yet, but since it requires a lot of cleaning that deals with many assumptions (such as that the name ends when the ', and' appears in the hospital name), I decided I will simply ignore it in the stage 2 analysis. 
+# it is not a very helpful feature for a predictive mode
 # Area of focus: I must focus on CTE's and using them more often on SQL. They were not essential in this project, but for future use I must keep that in mind.
 
 # Exporting CSV using Table Wizard Export with Comma field separator and rest of choices the default option was picked
