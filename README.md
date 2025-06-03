@@ -7,7 +7,7 @@ This project is ongoing and will perform data cleaning, visualisation, and model
 - `Stage 1 - SQL Analysis.sql`: Contains all SQL queries used for cleaning and analysis.
 - `Cleaned_healthcare_dataset.csv`: The final exported dataset after processing in SQL.
 - `healthcare_dataset.csv`: Raw data.
-- 'Stage 2 - ML using Python (Jupyter Notebook).ipynb': Contains all the Python analysis and modeling.
+- `Stage 2 - ML using Python (Jupyter Notebook).ipynb` : Contains all the Python analysis and modeling.
 
 ## Steps:
 
