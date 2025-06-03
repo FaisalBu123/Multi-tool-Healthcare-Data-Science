@@ -2,7 +2,7 @@
 
 This project is ongoing and will perform data cleaning, visualisation, and modeling using SQL and Python on a healthcare dataset.
 
-## Files
+## Files:
 
 - `Stage 1 - SQL Analysis.sql`: Contains all SQL queries used for cleaning and analysis.
 - `Cleaned_healthcare_dataset.csv`: The final exported dataset after processing in SQL.
