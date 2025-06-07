@@ -1,6 +1,6 @@
 ﻿# Multi-tool Healthcare Data Science
 
-This project is ongoing and will perform data cleaning, visualisation, and modeling using SQL and Python on a healthcare dataset.
+This project performed data cleaning, visualisation, and modeling using SQL and Python on a healthcare dataset.
 
 ## Files:
 
